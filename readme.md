@@ -20,3 +20,4 @@ The vision of LearnToEarn is to revolutionize the education sector by integratin
 - **User-Friendly Interface:** Easy access to video details, learner earnings, and creator earnings.
 - **Secure and Transparent:** Smart contracts ensure secure and transparent transactions.
 - **Owner Controls:** Contract owner has the ability to withdraw contract balance.
+
